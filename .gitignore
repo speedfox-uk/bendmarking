@@ -1,2 +1,4 @@
 **/main.go
 bend/det.bend
+node_modules/
+package-lock.json
